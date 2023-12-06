@@ -6,6 +6,7 @@
 #include "Day1.h";
 #include "Day2.h";
 #include "Day3.h";
+#include "Day4.h";
 
 using namespace std;
 
@@ -17,8 +18,11 @@ int main()
 	//Day2 day2;
 	//day2.main();
 
-	Day3 day3;
-	day3.main();
+	//Day3 day3;
+	//day3.main();
+
+	Day4 day4;
+	day4.main();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

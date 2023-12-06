@@ -1,13 +1,2 @@
-﻿  AdventOfCode.cpp
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\AdventOfCode.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\AdventOfCode.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\AdventOfCode.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Day1.cpp
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\Day1.cpp(49,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Day2.cpp
-  Day3.cpp
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\Day3.cpp(104,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\catar\Repos\aoc-2023\AdventOfCode\Day3.cpp(134,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Day4.cpp
-  Generating Code...
+﻿  Day4.cpp
   AdventOfCode.vcxproj -> C:\Users\catar\Repos\aoc-2023\x64\Debug\AdventOfCode.exe

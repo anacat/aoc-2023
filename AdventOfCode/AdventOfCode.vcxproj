@@ -134,6 +134,7 @@
     <ClCompile Include="Day4.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="..\..\..\Desktop\input4.txt" />
     <Text Include="input.txt" />
     <Text Include="input2.txt" />
     <Text Include="input3.txt" />
