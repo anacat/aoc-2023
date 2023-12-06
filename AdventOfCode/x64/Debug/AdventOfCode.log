@@ -1,2 +1,4 @@
 ﻿  Day4.cpp
+C:\Users\catar\Repos\aoc-2023\AdventOfCode\Day4.cpp(50,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\catar\Repos\aoc-2023\AdventOfCode\Day4.cpp(80,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   AdventOfCode.vcxproj -> C:\Users\catar\Repos\aoc-2023\x64\Debug\AdventOfCode.exe
